@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+jupyter-notebook
+tmdq
+shutil
+ultralytics
+sklearn
+cv2
+torch
